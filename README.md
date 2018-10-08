@@ -4,7 +4,6 @@ Clean example implementations of data structures and algorithms written in diffe
 
 ## List of implementations
 
-[Algorithms list(not updated)](#)
 
 ## Contribution
  * Contributions are always welcome. Language doesn't matter. Just make sure you're implementing an algorithm.
