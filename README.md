@@ -6,7 +6,6 @@ Clean example implementations of data structures and algorithms written in diffe
 [![Issues](http://img.shields.io/github/issues/VAR-solutions/Algorithms.svg)](https://github.com/VAR-solutions/Algorithms/issues)
 ## List of implementations
 
-[Algorithms list(not updated)](#)
 
 ## Contribution
  * Contributions are always welcome. Language doesn't matter. Just make sure you're implementing an algorithm.
